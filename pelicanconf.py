@@ -24,10 +24,10 @@ AUTHOR_FEED_RSS = None
 STATIC_PATHS = ['images']
 
 ARTICLE_PATHS = ['articles']
-# ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
-# ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
-# PAGE_URL = 'pages/{slug}/'
-# PAGE_SAVE_AS = 'pages/{slug}/index.html'
+ARTICLE_URL = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 # Blogroll
 LINKS = (

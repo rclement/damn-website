@@ -65,3 +65,7 @@ docs/_build/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Pelican output
+output
+cache
