@@ -12,9 +12,9 @@ Yodel is an easy-to-use Python package for digital audio signal processing, anal
 
 It is distributed as an open-source software under the [MIT license](http://choosealicense.com/licenses/mit).
 
-The Python package can be downloaded from [PyPI](https://pypi.python.org/pypi/yodel).
-The source code can be browsed/cloned/forked on [GitHub](https://github.com/rclement/yodel).
-The documentation can be found on [ReadTheDocs](http://yodel.readthedocs.org/en/latest/).
+The Python package can be downloaded from [PyPI](https://pypi.python.org/pypi/yodel).  
+The source code can be browsed/cloned/forked on [GitHub](https://github.com/rclement/yodel).  
+The documentation can be found on [ReadTheDocs](http://yodel.readthedocs.org/en/latest/).  
 
 ![Yodel Demo Biquad]({filename}/images/yodel_demo_biquad.png)
 ![Yodel Demo Fourier]({filename}/images/yodel_demo_fourier.png)
