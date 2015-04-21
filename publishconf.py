@@ -14,12 +14,14 @@ SITEURL = 'http://www.romainclement.com'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 LOAD_CONTENT_CACHE = True
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ""
+DISQUS_SITENAME = 'damn'
 #GOOGLE_ANALYTICS = ""
